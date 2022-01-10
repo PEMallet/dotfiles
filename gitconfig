@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = p.mallet@live.fr
+	name = Paul-Etienne Mallet
